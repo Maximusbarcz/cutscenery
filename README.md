@@ -1,9 +1,7 @@
-# Fabric Example Mod
+# Cutscenery
 
-## Setup
+## A mod
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Adds the ability for modpack makers to add cut-scenes to their modpack under specific events.
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+more coming soon or something
